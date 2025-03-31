@@ -1,0 +1,277 @@
+{
+  "name": "Dnipro University of Technology",
+  "head": {
+    "firstName": "Nastya",
+    "lastName": "Sydorova",
+    "middleName": "Artemivna",
+    "sex": "FEMALE"
+  },
+  "faculties": [
+    {
+      "name": "FIT",
+      "head": {
+        "firstName": "Taras",
+        "lastName": "Dronov",
+        "middleName": "Illich",
+        "sex": "MALE"
+      },
+      "departments": [
+        {
+          "name": "PZKS",
+          "head": {
+            "firstName": "Olha",
+            "lastName": "Shevchenko",
+            "middleName": "Petrivna",
+            "sex": "FEMALE"
+          },
+          "groups": [
+            {
+              "name": "122-21-1",
+              "head": {
+                "firstName": "Petro",
+                "lastName": "Kovalenko",
+                "middleName": "Anatoliyovych",
+                "sex": "MALE"
+              },
+              "students": [
+                {
+                  "studentId": "S1",
+                  "firstName": "Oleksii",
+                  "lastName": "Artemov",
+                  "middleName": "Artemovych",
+                  "sex": "MALE"
+                },
+                {
+                  "studentId": "S2",
+                  "firstName": "Anna",
+                  "lastName": "Annenko",
+                  "middleName": "Andriivna",
+                  "sex": "FEMALE"
+                }
+              ]
+            },
+            {
+              "name": "125-20-2",
+              "head": {
+                "firstName": "Petro",
+                "lastName": "Kovalenko",
+                "middleName": "Anatoliyovych",
+                "sex": "MALE"
+              },
+              "students": [
+                {
+                  "studentId": "S1",
+                  "firstName": "Oleksii",
+                  "lastName": "Artemov",
+                  "middleName": "Artemovych",
+                  "sex": "MALE"
+                },
+                {
+                  "studentId": "S2",
+                  "firstName": "Anna",
+                  "lastName": "Annenko",
+                  "middleName": "Andriivna",
+                  "sex": "FEMALE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SAY",
+          "head": {
+            "firstName": "Olha",
+            "lastName": "Shevchenko",
+            "middleName": "Petrivna",
+            "sex": "FEMALE"
+          },
+          "groups": [
+            {
+              "name": "122-21-1",
+              "head": {
+                "firstName": "Petro",
+                "lastName": "Kovalenko",
+                "middleName": "Anatoliyovych",
+                "sex": "MALE"
+              },
+              "students": [
+                {
+                  "studentId": "S1",
+                  "firstName": "Oleksii",
+                  "lastName": "Artemov",
+                  "middleName": "Artemovych",
+                  "sex": "MALE"
+                },
+                {
+                  "studentId": "S2",
+                  "firstName": "Anna",
+                  "lastName": "Annenko",
+                  "middleName": "Andriivna",
+                  "sex": "FEMALE"
+                }
+              ]
+            },
+            {
+              "name": "125-20-2",
+              "head": {
+                "firstName": "Petro",
+                "lastName": "Kovalenko",
+                "middleName": "Anatoliyovych",
+                "sex": "MALE"
+              },
+              "students": [
+                {
+                  "studentId": "S1",
+                  "firstName": "Oleksii",
+                  "lastName": "Artemov",
+                  "middleName": "Artemovych",
+                  "sex": "MALE"
+                },
+                {
+                  "studentId": "S2",
+                  "firstName": "Anna",
+                  "lastName": "Annenko",
+                  "middleName": "Andriivna",
+                  "sex": "FEMALE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "FE",
+      "head": {
+        "firstName": "Taras",
+        "lastName": "Dronov",
+        "middleName": "Illich",
+        "sex": "MALE"
+      },
+      "departments": [
+        {
+          "name": "PZKS",
+          "head": {
+            "firstName": "Olha",
+            "lastName": "Shevchenko",
+            "middleName": "Petrivna",
+            "sex": "FEMALE"
+          },
+          "groups": [
+            {
+              "name": "122-21-1",
+              "head": {
+                "firstName": "Petro",
+                "lastName": "Kovalenko",
+                "middleName": "Anatoliyovych",
+                "sex": "MALE"
+              },
+              "students": [
+                {
+                  "studentId": "S1",
+                  "firstName": "Oleksii",
+                  "lastName": "Artemov",
+                  "middleName": "Artemovych",
+                  "sex": "MALE"
+                },
+                {
+                  "studentId": "S2",
+                  "firstName": "Anna",
+                  "lastName": "Annenko",
+                  "middleName": "Andriivna",
+                  "sex": "FEMALE"
+                }
+              ]
+            },
+            {
+              "name": "125-20-2",
+              "head": {
+                "firstName": "Petro",
+                "lastName": "Kovalenko",
+                "middleName": "Anatoliyovych",
+                "sex": "MALE"
+              },
+              "students": [
+                {
+                  "studentId": "S1",
+                  "firstName": "Oleksii",
+                  "lastName": "Artemov",
+                  "middleName": "Artemovych",
+                  "sex": "MALE"
+                },
+                {
+                  "studentId": "S2",
+                  "firstName": "Anna",
+                  "lastName": "Annenko",
+                  "middleName": "Andriivna",
+                  "sex": "FEMALE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SAY",
+          "head": {
+            "firstName": "Olha",
+            "lastName": "Shevchenko",
+            "middleName": "Petrivna",
+            "sex": "FEMALE"
+          },
+          "groups": [
+            {
+              "name": "122-21-1",
+              "head": {
+                "firstName": "Petro",
+                "lastName": "Kovalenko",
+                "middleName": "Anatoliyovych",
+                "sex": "MALE"
+              },
+              "students": [
+                {
+                  "studentId": "S1",
+                  "firstName": "Oleksii",
+                  "lastName": "Artemov",
+                  "middleName": "Artemovych",
+                  "sex": "MALE"
+                },
+                {
+                  "studentId": "S2",
+                  "firstName": "Anna",
+                  "lastName": "Annenko",
+                  "middleName": "Andriivna",
+                  "sex": "FEMALE"
+                }
+              ]
+            },
+            {
+              "name": "125-20-2",
+              "head": {
+                "firstName": "Petro",
+                "lastName": "Kovalenko",
+                "middleName": "Anatoliyovych",
+                "sex": "MALE"
+              },
+              "students": [
+                {
+                  "studentId": "S1",
+                  "firstName": "Oleksii",
+                  "lastName": "Artemov",
+                  "middleName": "Artemovych",
+                  "sex": "MALE"
+                },
+                {
+                  "studentId": "S2",
+                  "firstName": "Anna",
+                  "lastName": "Annenko",
+                  "middleName": "Andriivna",
+                  "sex": "FEMALE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
