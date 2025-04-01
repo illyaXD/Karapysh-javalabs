@@ -28,7 +28,7 @@ public class UniversityJsonTest {
 
         University newUniversity = JsonManager.readUniversityFromJson(FILE_PATH);
 
-        assertEquals(oldUniversity, newUniversity, "University objects must be equal");
+        assertEquals(oldUniversity, newUniversity, "oldUniversity and newUniversity should be the same");
     }
 
     private University createSampleUniversity() {
