@@ -10,8 +10,8 @@ public class StudentDatabaseManager {
 
     public List<Student> getStudentsByBirthMonth(int month) {
         List<Student> students = new ArrayList<>();
-        String query = "SELECT last_name, first_name, middle_name, birth_date, record_book_number " +
-                "FROM students WHERE EXTRACT(MONTH FROM birth_date) = ?";
+        
+        String query = "SELECT last_name, first_name, middle_name, birth_date, record_book_number FROM students WHERE EXTRACT(MONTH FROM birth_date) = ?";
 
         try (Connection connection = DatabaseConnector.getConnection();
              PreparedStatement preparedStatement = connection.prepareStatement(query)) {
