@@ -17,10 +17,6 @@ public class Student {
         this.recordBookNumber = recordBookNumber;
     }
 
-    public String getBirthDate() {
-        return birthDate;
-    }
-
     @Override
     public String toString() {
         return lastName + " " + firstName + " " + middleName + ", was born: " + birthDate + ". Student number: " + recordBookNumber;
