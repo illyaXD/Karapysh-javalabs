@@ -12,14 +12,6 @@ import static org.junit.jupiter.api.Assertions.*;
 public class UniversityJsonTest {
     private static final String FILE_PATH = "university.json";
 
-    @BeforeEach
-    public void setUp() {
-        File file = new File(FILE_PATH);
-        if (file.exists()) {
-            file.delete();
-        }
-    }
-
     @Test
     public void testJsonSerialization() {
         University oldUniversity = createSampleUniversity();
